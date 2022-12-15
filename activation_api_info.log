@@ -1,0 +1,54 @@
+2022-11-07 13:04:30,049 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): partner.api.stc.com.sa:443
+2022-11-07 13:04:32,764 DEBUG urllib3.connectionpool https://partner.api.stc.com.sa:443 "POST /s-oidc/oAuth2/v1/token HTTP/1.1" 200 2920
+2022-11-07 13:04:32,773 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): partner.api.stc.com.sa:443
+2022-11-07 13:04:37,143 DEBUG urllib3.connectionpool https://partner.api.stc.com.sa:443 "POST /m2m/v2/sims/activated HTTP/1.1" 400 338
+2022-11-07 13:04:37,147 INFO __main__ imsi_from : 420011002834497 batch_count : 10 Activation API Response : <Response [400]>
+2022-11-07 13:09:37,978 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): partner.api.stc.com.sa:443
+2022-11-07 13:09:42,757 DEBUG urllib3.connectionpool https://partner.api.stc.com.sa:443 "POST /s-oidc/oAuth2/v1/token HTTP/1.1" 200 2920
+2022-11-07 13:10:17,372 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): partner.api.stc.com.sa:443
+2022-11-07 13:10:20,171 DEBUG urllib3.connectionpool https://partner.api.stc.com.sa:443 "POST /s-oidc/oAuth2/v1/token HTTP/1.1" 200 2920
+2022-11-07 13:18:05,773 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): partner.api.stc.com.sa:443
+2022-11-07 13:18:08,433 DEBUG urllib3.connectionpool https://partner.api.stc.com.sa:443 "POST /s-oidc/oAuth2/v1/token HTTP/1.1" 200 2920
+2022-11-07 13:19:49,390 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): partner.api.stc.com.sa:443
+2022-11-07 13:19:53,832 DEBUG urllib3.connectionpool https://partner.api.stc.com.sa:443 "POST /s-oidc/oAuth2/v1/token HTTP/1.1" 200 2920
+2022-11-07 13:20:22,267 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): partner.api.stc.com.sa:443
+2022-11-07 13:20:25,731 DEBUG urllib3.connectionpool https://partner.api.stc.com.sa:443 "POST /s-oidc/oAuth2/v1/token HTTP/1.1" 200 2920
+2022-11-07 13:20:25,740 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): partner.api.stc.com.sa:443
+2022-11-07 13:20:31,329 DEBUG urllib3.connectionpool https://partner.api.stc.com.sa:443 "POST /m2m/v2/sims/activated HTTP/1.1" 400 338
+2022-11-07 13:20:31,333 INFO __main__ imsi_from : 420011002834497 batch_count : 10 Activation API Response : <Response [400]>
+2022-11-07 13:31:43,696 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): partner.api.stc.com.sa:443
+2022-11-07 13:31:49,645 DEBUG urllib3.connectionpool https://partner.api.stc.com.sa:443 "POST /s-oidc/oAuth2/v1/token HTTP/1.1" 200 2920
+2022-11-07 13:31:49,654 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): partner.api.stc.com.sa:443
+2022-11-07 13:31:52,113 DEBUG urllib3.connectionpool https://partner.api.stc.com.sa:443 "POST /s-oidc/oAuth2/v1/token HTTP/1.1" 200 2920
+2022-11-07 13:31:52,121 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): partner.api.stc.com.sa:443
+2022-11-07 13:31:56,166 DEBUG urllib3.connectionpool https://partner.api.stc.com.sa:443 "POST /s-oidc/oAuth2/v1/token HTTP/1.1" 200 2920
+2022-11-07 13:31:56,175 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): partner.api.stc.com.sa:443
+2022-11-07 13:32:01,338 DEBUG urllib3.connectionpool https://partner.api.stc.com.sa:443 "POST /m2m/v2/sims/activated HTTP/1.1" 400 338
+2022-11-07 13:32:01,341 INFO __main__ imsi_from : 420011002834497 batch_count : 10 Activation API Response : <Response [400]>
+2022-11-07 13:33:31,368 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): partner.api.stc.com.sa:443
+2022-11-07 13:33:34,478 DEBUG urllib3.connectionpool https://partner.api.stc.com.sa:443 "POST /s-oidc/oAuth2/v1/token HTTP/1.1" 200 2920
+2022-11-07 13:33:34,487 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): partner.api.stc.com.sa:443
+2022-11-07 13:33:37,673 DEBUG urllib3.connectionpool https://partner.api.stc.com.sa:443 "POST /s-oidc/oAuth2/v1/token HTTP/1.1" 200 2920
+2022-11-07 13:33:37,684 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): partner.api.stc.com.sa:443
+2022-11-07 13:33:42,335 DEBUG urllib3.connectionpool https://partner.api.stc.com.sa:443 "POST /m2m/v2/sims/activated HTTP/1.1" 400 338
+2022-11-07 13:33:42,338 INFO __main__ imsi_from : 420011002834497 batch_count : 10 Activation API Response : <Response [400]>
+2022-11-07 13:34:23,280 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): partner.api.stc.com.sa:443
+2022-11-07 13:34:26,152 DEBUG urllib3.connectionpool https://partner.api.stc.com.sa:443 "POST /s-oidc/oAuth2/v1/token HTTP/1.1" 200 2920
+2022-11-07 13:34:26,162 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): partner.api.stc.com.sa:443
+2022-11-07 13:34:29,451 DEBUG urllib3.connectionpool https://partner.api.stc.com.sa:443 "POST /m2m/v2/sims/activated HTTP/1.1" 400 338
+2022-11-07 13:34:29,456 INFO __main__ imsi_from : 420011002834497 batch_count : 10 Activation API Response : <Response [400]>
+2022-11-07 13:34:49,983 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): partner.api.stc.com.sa:443
+2022-11-07 13:34:52,790 DEBUG urllib3.connectionpool https://partner.api.stc.com.sa:443 "POST /s-oidc/oAuth2/v1/token HTTP/1.1" 200 2920
+2022-11-07 13:34:52,798 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): partner.api.stc.com.sa:443
+2022-11-07 13:34:56,893 DEBUG urllib3.connectionpool https://partner.api.stc.com.sa:443 "POST /m2m/v2/sims/activated HTTP/1.1" 400 338
+2022-11-07 13:34:56,898 INFO __main__ imsi_from : 420011002834497 batch_count : 10 Activation API Response : <Response [400]>
+2022-11-07 13:36:32,540 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): partner.api.stc.com.sa:443
+2022-11-07 13:36:34,743 DEBUG urllib3.connectionpool https://partner.api.stc.com.sa:443 "POST /s-oidc/oAuth2/v1/token HTTP/1.1" 200 2920
+2022-11-07 13:36:34,746 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): partner.api.stc.com.sa:443
+2022-11-07 13:36:40,363 DEBUG urllib3.connectionpool https://partner.api.stc.com.sa:443 "POST /m2m/v2/sims/activated HTTP/1.1" 200 None
+2022-11-07 13:36:40,367 INFO __main__ imsi_from : 420011002834507 batch_count : 1 Activation API Response : <Response [200]>
+2022-11-08 10:56:37,789 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): partner.api.stc.com.sa:443
+2022-11-08 10:56:40,233 DEBUG urllib3.connectionpool https://partner.api.stc.com.sa:443 "POST /s-oidc/oAuth2/v1/token HTTP/1.1" 200 2920
+2022-11-08 10:56:40,236 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): partner.api.stc.com.sa:443
+2022-11-08 10:56:46,728 DEBUG urllib3.connectionpool https://partner.api.stc.com.sa:443 "POST /m2m/v2/sims/activated HTTP/1.1" 200 None
+2022-11-08 10:56:46,729 INFO __main__ imsi_from : 420011002834508 batch_count : 1 Activation API Response : <Response [200]>

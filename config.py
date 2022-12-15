@@ -1,3 +1,4 @@
+# api urls
 api_url = {
     "api_url": "https://partner.api.stc.com.sa/s-oidc/oAuth2/v1/token",
     "activated_sim_api_url": "https://partner.api.stc.com.sa/m2m/v2/sims/activated"
